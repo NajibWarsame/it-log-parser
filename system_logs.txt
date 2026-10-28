@@ -1,0 +1,5 @@
+[2026-10-28 10:00:00] INFO: Windows Server started successfully.
+[2026-10-28 10:05:00] ERROR: User Bob_Carter failed to log in.
+[2026-10-28 10:15:00] INFO: Backup completed.
+[2026-10-28 10:20:00] CRITICAL: Antivirus definitions out of date!
+[2026-10-28 10:30:00] ERROR: Unauthorized USB access attempt blocked.
